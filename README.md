@@ -47,3 +47,4 @@ PC with LT Spice software
 
 
 39.	## RESULT:
+![WhatsApp Image 2025-11-29 at 10 32 59_4fdc98ae](https://github.com/user-attachments/assets/fa43c61d-e8a3-4633-9f6f-3d86e040f1e1)
